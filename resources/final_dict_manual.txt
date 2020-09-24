@@ -1,0 +1,24 @@
+Final dict is a nested python dictionary that has combined jmdict, daijisen, and a frequency list
+Here is instructions on how to access its sub dictionaries 
+
+All of the following takes a japanese word as key:
+
+final_dict['reading']
+returns reading in hiragana (jmdict)
+
+final_dict['vocabulary position']
+returns vocabulary postion, noun, verb etc (jmdict)
+
+final_dict['translation']
+returns english translation (jmdict)
+
+final_dict['frequency']
+returns the frequency (anime frequency list)
+
+final_dict['definition']
+returns japanese definition (daijisen)
+
+The following takes a number as its key:
+
+final_dict['reverse frequency']
+returns the word corresponding to the frequency of the given number

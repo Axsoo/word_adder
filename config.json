@@ -1,0 +1,14 @@
+{
+    "mainDeck" : "2. 語彙",
+    "subDeck" : "2. 語彙::語彙 和->英::Auto",
+    "model" : "Japanese Vocab",
+    "dstKanji" : "Vocabulary-Kanji-Plain",
+    "dstKana" : "Vocabulary-Kana",
+    "dstEnglish" : "Vocabulary-English",
+    "dstPosition" : "Vocabulary-Pos",
+    "dstAudio" : "Vocabulary-Audio",
+    "dstImage" : "Image",
+    "dstDefinition" : "Sanseido",
+    "dstSentence" : "Expression",
+    "dstFreq" : "Frequency"
+}
